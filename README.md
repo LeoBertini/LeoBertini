@@ -3,7 +3,7 @@
 - I'm an Oceanographer and proud computer geek.
 - I'm interested in combining concepts across disciplines and technologies to aid in our understanding of the natural world. 
 - I'm currently a PhD student at the University of Bristol developing advanced image processing pipelines to process 3D X-ray µCT data of coral skeletons, coupling these to machine learning and remote sensing data to investigate changes in coral growth in understudied regions of SE Asia. 
-- I also have a BSc in Oceanography from the University of Sao Paulo (Brazil), a joint MSc in Marine Biological Resources by the University of Bergen (Norway) and the University of Ghent (Belgium). 
+- I also have a joint MSc in Marine Biological Resources by the University of Bergen (Norway) and the University of Ghent (Belgium) and a BSc in Oceanography from the University of São Paulo (Brazil).
 
 ### Languages
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
