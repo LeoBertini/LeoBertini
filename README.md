@@ -32,3 +32,4 @@ https://simpleicons.org -->
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
 Contact me via [email](mailto:leonardo.bertini25@gmail.com) or [LinkedIn](https://www.linkedin.com/in/leonardo-oceanographer/).
+
