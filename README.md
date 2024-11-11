@@ -1,7 +1,7 @@
 # Hi there! I'm Leo Bertini 🌊🪸🧑🏻‍💻
 
 - I'm an Oceanographer and proud computer geek interested in combining concepts across disciplines to develop new technologies to better understand the natural world.
-- I'm currently a PhD at the Natural History Museum and the University of Bristol (UK) developing advanced image processing pipelines to process 3D X-ray µCT data of coral skeletons and analyse changes in coral growth in understudied regions of SE Asia.
+- I'm currently developing advanced image processing pipelines to process 3D X-ray µCT data of coral skeletons and analyse changes in coral growth in understudied regions of SE Asia, as part of my PhD at the University of Bristol and the Natural History Museum (UK). 
 - I also have a joint MSc in Marine Biological Resources by the University of Bergen (Norway) and the University of Ghent (Belgium) and a BSc in Oceanography from the University of São Paulo (Brazil).
 - Im my free time, I can be found underwater or reading about sustainable investing, carbon storage, carbon credits and the blue economy. 
 
