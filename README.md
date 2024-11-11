@@ -1,10 +1,11 @@
 # Hi there! I'm Leo Bertini 🌊🪸🧑🏻‍💻
 
-- I'm an Oceanographer and proud computer geek.
-- I'm interested in combining concepts across disciplines and technologies to better understand the natural world. 
+- I'm an Oceanographer and proud computer geek, often found in the lab doing seawater analysis, photoshooting coral with super powerfull X-rays or coding.
+- I'm interested in combining concepts across disciplines to develop new technologies to better understand the natural world. 
 - I'm currently a PhD student at the University of Bristol. 
 - As part of my PhD research I am developing advanced image processing pipelines to process 3D X-ray µCT data of coral skeletons to analyse changes in coral growth in understudied regions of SE Asia. 
 - I also have a joint MSc in Marine Biological Resources by the University of Bergen (Norway) and the University of Ghent (Belgium) and a BSc in Oceanography from the University of São Paulo (Brazil).
+- Im my free time, I can be found underwater or reading about sustainable investing, carbon storage, carbon credits and the blue economy. 
 
 ### Languages
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
