@@ -3,7 +3,7 @@
 - I'm a marine scientist and proud computer geek.
 - I'm interested in combining concepts across disciplines to develop new technologies to better understand the natural world.
 - I'm currenty an early stage researcher at the Natural History Museum doing my PhD at the University of Bristol (UK). 
-- As part of my research, I am doing 3D photoshoots of many coral skeletons with very powerfull X-rays and developing advanced image processing pipelines coupled with AI to understand past changes in coral growth in understudied regions of SE Asia.
+- As part of my PhD research, I am doing 3D photoshoots of coral skeletons with very powerfull X-rays and developing advanced image processing pipelines coupled with AI to understand past changes in coral growth in understudied regions of SE Asia.
 - I also have a joint MSc in Marine Biological Resources focused on Global Ocean Change and Future Seas by the University of Bergen (Norway) and the University of Ghent (Belgium) and a BSc in Oceanography from the University of São Paulo (Brazil).
 - Im my free time, I can be found underwater or reading about sustainable investing, carbon storage, carbon credits and the blue economy. 
 
