@@ -1,5 +1,4 @@
-# Hi there! 
-# I'm Leo Bertini 🧑🏻‍💻🌊🪸🩻
+# Hi there! I'm Leo Bertini 🧑🏻‍💻🌊🪸🩻
 
 - I'm a marine scientist and conding enthusiast with a strong interest in tech and data science.
 - Currently shooting very porwerfull X-rays at coral skeletons and developing advanced 3D imaging processig pipelines coupled with AI to study historical coral growth in undertudied areas of SE Asia.
