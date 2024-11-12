@@ -1,7 +1,7 @@
 # Hi there! 
 # I'm Leo Bertini 🧑🏻‍💻🌊🪸🩻
 
-- I'm a marine scientist and conding enthusiast with strong interest in tech and data science.
+- I'm a marine scientist and conding enthusiast with a strong interest in tech and data science.
 - Currently shooting very porwerfull X-rays at coral skeletons and developing advanced 3D imaging processig pipelines coupled with AI to study historical coral growth in undertudied areas of SE Asia.
 - I am now an early stage researcher at the Natural History Museum and PhD candidate at the University of Bristol (UK).
 - I have a joint MSc in Marine Biological Resources and Global Ocean Change by the University of Bergen (Norway) and the University of Ghent (Belgium).
