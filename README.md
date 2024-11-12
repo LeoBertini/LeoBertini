@@ -5,7 +5,7 @@
 - I am now shooting very porwerfull X-rays at coral skeletons and developing advanced 3D imaging processig pipelines coupled with AI to study historical coral growth in undertudied areas of SE Asia.
 - I have a joint MSc in Marine Biological Resources (Global Ocean Change) by the University of Bergen (Norway) and the University of Ghent (Belgium).
 - I also have a BSc in Oceanography from the University of São Paulo (Brazil).
-- Im my free time, I can be found underwater or amidst nature and reading on topics like technology, carbon storage, renewable energy, and the blue economy.
+- In my free time, I can be found underwater or amidst nature and reading on topics like technology, carbon storage, renewable energy, and the blue economy.
 
 
 ### Languages
