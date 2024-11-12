@@ -1,11 +1,12 @@
 # Hi there! I'm Leo Bertini 🧑🏻‍💻🌊🪸🩻
 
-- I'm a marine scientist and proud computer geek.
-- I'm interested in combining concepts across disciplines to develop new technologies to better understand the natural world.
-- I'm currenty an early stage researcher at the Natural History Museum doing my PhD at the University of Bristol (UK). 
-- As part of my PhD research, I am doing 3D photoshoots of coral skeletons with very powerfull X-rays and developing advanced image processing pipelines coupled with AI to understand past changes in coral growth in understudied regions of SE Asia.
-- I also have a joint MSc in Marine Biological Resources focused on Global Ocean Change and Future Seas by the University of Bergen (Norway) and the University of Ghent (Belgium) and a BSc in Oceanography from the University of São Paulo (Brazil).
-- Im my free time, I can be found underwater or reading about carbon storage, carbon credits the blue economy and sustainable investments. 
+- I'm a marine scientist at heart with a strong interest in technology.
+- Currently an early-stage researcher at the Natural History Museum and PhD candidate at the University of Bristol (UK).
+- I am now shooting very porwerfull X-rays at coral skeletons and developing advanced 3D imaging processig coupled with AI to study historical coral growth in undertudied areas of SE Asia.
+- I have a joint MSc in Marine Biological Resources (Global Ocean Change) by the University of Bergen (Norway) and the University of Ghent (Belgium).
+- I also have a BSc in Oceanography from the University of São Paulo (Brazil).
+- Im my free time, I can be found underwater or amidst nature and reading on topics like technology, carbon storage, renewable energy, and the blue economy.
+
 
 ### Languages
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
