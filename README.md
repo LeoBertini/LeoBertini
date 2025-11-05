@@ -2,6 +2,10 @@
 
 - I'm a marine scientist and coding enthusiast with a strong interest in marine conservation, tech, data science and science communication.
 - I am now based at the University of Liverpool (UK) as a Postdoctoral Research Associate in the [School of Environmental Sciences and the Department of Earth, Ocean and Ecological Sciences](https://www.liverpool.ac.uk/earth-ocean-and-ecological-sciences/). I am on the PRECOG team, looking at how to improve our understanding of the biological carbon pump (BCP) in IPCC-class Earth System Models by deriving new standard quantitative measures of the BCP and better constraining how we estimate carbon storage in the deep ocean on a global scale.
+- Up until very recently, I have been shooting very powerful X-rays at coral skeletons and developing advanced 3D image processing pipelines coupled with AI to study historical coral growth in understudied areas of SE Asia, which led to my [PhD degree from the University of Bristol (UK)](https://research-information.bris.ac.uk/en/studentTheses/historical-baselines-of-porites-coral-growth-across-indonesian-re/) and linked to an Early Stage Researcher position at the [Natural History Museum](https://www.nhm.ac.uk/discover/coral-reefs.html).
+- I have a joint MSc in Marine Biological Resources and Global Ocean Change from the University of Bergen (Norway) and Ghent University (Belgium).
+- I also have a BSc in Oceanography from the University of São Paulo (Brazil), concluded with a year abroad at the University of Liverpool (UK).
+- In my free time, I can be found underwater, at the gym or amidst nature and reading on topics like technology, carbon storage, renewable energy, and the blue economy. I also like text art and ASCII art: here are some fitting examples:
 
                                   ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀    ⣠⣴⣶⠾⠿⠿⠯⣷⣄⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
                                   ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⣼⣾⠛⠁⠀⠀⠀⠀⠀⠀⠈⢻⣦⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
@@ -12,14 +16,6 @@
                                   ⠀⠀⠀⠀⠀⣠⣼⡏⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⠙⠷⣤⣤⣠⣤⣤⡤⡶⣶⢿⠟⠹⠿⠄⣿⣿⠏⠀⣀⣤⡦⠀⠀⠀⠀⣀⡄
                                   ⢀⣄⣠⣶⣿⠏⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⠉⠓⠚⠋⠉⠀⠀⠀⠀⠀⠀⠈⠛⡛⡻⠿⠿⠙⠓⢒⣺⡿⠋⠁
                                   ⠉⠉⠉⠛⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠉⠉⠁⠀
-
-
-- Up until very recently, I have been shooting very powerful X-rays at coral skeletons and developing advanced 3D image processing pipelines coupled with AI to study historical coral growth in understudied areas of SE Asia, which led to my [PhD degree from the University of Bristol (UK)](https://research-information.bris.ac.uk/en/studentTheses/historical-baselines-of-porites-coral-growth-across-indonesian-re/) and linked to an Early Stage Researcher position at the [Natural History Museum](https://www.nhm.ac.uk/discover/coral-reefs.html).
-- I have a joint MSc in Marine Biological Resources and Global Ocean Change from the University of Bergen (Norway) and Ghent University (Belgium).
-- I also have a BSc in Oceanography from the University of São Paulo (Brazil), concluded with a year abroad at the University of Liverpool (UK).
-- In my free time, I can be found underwater, at the gym or amidst nature and reading on topics like technology, carbon storage, renewable energy, and the blue economy.
-
-⠀⠀⠀⠀
                                         
                                                          o o
                                                     o o o
